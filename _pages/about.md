@@ -46,7 +46,7 @@ I'm a **Research Associate** at the College of Computing & Data Science at Nanya
   - Automated Python scripts to streamline the testing of product features.
   - Performed Manual and Regression Testing of products with automated scripts.
 
-  - **Research Intern**  
+- **Research Intern**  
   *December 2019 - June 2020*   
   Energy Research Institute @ NTU (ERI@N), Singapore 
   - Devised an Ultra-Wideband based smart lighting system for optimized plug load management.
