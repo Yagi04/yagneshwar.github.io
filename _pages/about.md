@@ -8,10 +8,50 @@ redirect_from:
 ---
 
 
-I'm a **Research Associate** at the College of Computing & Data Science at Nanyang Technological University(NTU), exploring the intersection of embedded systems, and data science. My work involves developing solutions for low-power IoT networks, with a focus on edge computing. I enjoy turning ideas into practical systems, whether it's building hardware prototypes or writing efficient code. With a passion for problem-solving and technology, I'm always eager to learn and collaborate on projects that push the boundaries of what's possible. My interest include: 
+I'm a **Research Associate** at the College of Computing & Data Science at Nanyang Technological University(NTU), exploring the intersection of embedded systems, and data science. My work involves developing solutions for IoT networks, with a focus on edge computing. I enjoy turning ideas into practical systems, whether it's building hardware prototypes or writing efficient code. With a passion for problem-solving and technology, I'm always eager to learn and collaborate on projects that push the boundaries of what's possible. My interest include: 
 
  - Embedded Systems
  - AI Agents
+
+## Professional Experience
+
+- **Research Associate**   
+  *July 2024 - Present*  
+  Nanyang Technological University, Singapore  
+  - Optimization of low-power, long-range data transmission.
+  - Embedded systems development for sensor nodes and gateways.
+  - Performance evaluation of network protocols and data analysis.
+  <br/>
+
+- **Software QA Engineer**  
+  *January 2022 - July 2022*   
+  Gigamon Private Limited, India
+  - Conducted security testing & scans for Cloud-deployed solutions, including VM, NSX-V, and NSX-T.
+  - Generated and executed a variety of test cases to validate product features. 
+  - Automated the testing scenarios to streamline and enhance the testing process.
+ <br/>
+
+## Internship
+
+- **Student Assistant**  
+  *September 2022 - December 2023*   
+  Energy Research Institute @ NTU (ERI@N), Singapore  
+  - Co-developed the creation of a Python-based Model Predictive Control (MPC) system for Real-Time Applications (RTA) across diverse projects.
+  - Enhancing code modularity to optimize memory efficiency, specifically for Edge Computing applications.
+  - Crafting a user-friendly web dashboard for efficient monitoring and control. 
+
+- **Software Intern**  
+  *May 2021 - December 2021*   
+  Gigamon Private Limited, India
+  - Automated Python scripts to streamline the testing of product features.
+  - Performed Manual and Regression Testing of products with automated scripts.
+
+  - **Research Intern**  
+  *December 2019 - June 2020*   
+  Energy Research Institute @ NTU (ERI@N), Singapore 
+  - Devised an Ultra-Wideband based smart lighting system for optimized plug load management.
+  - Constructed and implemented a user-friendly web dashboard for monitoring energy usage and scheduling numerous smart plugs 
+  - Conducted comprehensive data analysis to scrutinize energy consumption trends and predict future energy requirement
 
 
 A data-driven personal website
