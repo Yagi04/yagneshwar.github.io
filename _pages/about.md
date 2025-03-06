@@ -59,12 +59,13 @@ I'm a **Research Associate** at the College of Computing & Data Science at Nanya
 ## Education
 
 - **Master of Science in Computer Control and Automation**  
-  Nanyang Technological University, Singapore  
+  Nanyang Technological University(NTU), Singapore  
   *Completed: March 2024*
 
 - **Bachelor of Technology in Computer Science and Engineering**  
   Vellore Institute of Technology(VIT), India
   *Completed: June 2020*
+ 
  <br/>
 
 ## Research Experience
@@ -94,7 +95,7 @@ I'm a **Research Associate** at the College of Computing & Data Science at Nanya
 I am good at the skills below:
 - **Programming Languages**: Python, Java, C, C++, SQL, HTML, Javascript, MATLAB 
 - **Programming Frameworks**:  Tensorflow, Keras, Pandas, Scikit-learn, Matplotlib, Numpy, Scipy, Bootstrap, Query, Springboot and React
-- **Development Boards**: Rapberry Pi, Nvidia Jetson Nano, Arduino, ESP32 
+- **Development Boards**: Raspberry Pi, Nvidia Jetson Nano, Arduino, ESP32 
 
 <!-- 
 A data-driven personal website
