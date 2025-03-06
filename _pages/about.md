@@ -62,11 +62,10 @@ I'm a **Research Associate** at the College of Computing & Data Science at Nanya
   Nanyang Technological University(NTU), Singapore  
   *Completed: March 2024*
 
-- **Bachelor of Technology in Computer Science and Engineering**  
-  Vellore Institute of Technology(VIT), India
+- **Bachelor of Technology in Computer Science and Engineering**
+  Vellore Institute of Technology(VIT), India 
   *Completed: June 2020*
- 
- <br/>
+
 
 ## Research Experience
 <!-- 
@@ -81,10 +80,10 @@ I'm a **Research Associate** at the College of Computing & Data Science at Nanya
 - **Mechanical Engineering Project: Individual Voting for RL and Search-based Algorithm Combination in Multi-agent Pathfinding**  
   *Aug 2021~Oct 2022*  
   Proposed an Individual Voting mechanism to optimize the pathfinding algorithm's performance in dead/livelock situations. A decentralized RL algorithm and a centralized search-based algorithm are learned to combine.  
-
-- **Final Year Project: Reinforcement Learning in Continuous Control Problem**  
-  *Sept 2020 - May 2021*  
-  Implemented a RL-based algorithm for robust manipulator operation using RGB image inputs and Cartesian coordinate outputs. Achieved autonomous grasping for diverse workpiece structures. -->
+-->
+- **Dissertation Project: Machine Learning-Based Model Predictive Control for ACMV system using Edge Device**  
+  *Sept 2022 - Dec 2023*  
+  Developed and Deployed a Machine Learning based Model Predictive Control (MPC) system for a tesbed to maintain human comfort by monitoring ACMV systems using Edge Device.
 
 ## Awards & Honors
 - EEE Excellence Award, NTU, Singapore, 2024
