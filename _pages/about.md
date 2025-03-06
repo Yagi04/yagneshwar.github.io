@@ -62,8 +62,8 @@ I'm a **Research Associate** at the College of Computing & Data Science at Nanya
   Nanyang Technological University(NTU), Singapore  
   *Completed: March 2024*
 
-- **Bachelor of Technology in Computer Science and Engineering**
-  Vellore Institute of Technology(VIT), India
+- **Bachelor of Technology in Computer Science and Engineering** <br/>
+  Vellore Institute of Technology(VIT), India  <br/>
   *Completed: June 2020*
 
 
