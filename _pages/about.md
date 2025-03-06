@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -39,12 +39,14 @@ I'm a **Research Associate** at the College of Computing & Data Science at Nanya
   - Co-developed the creation of a Python-based Model Predictive Control (MPC) system for Real-Time Applications (RTA) across diverse projects.
   - Enhancing code modularity to optimize memory efficiency, specifically for Edge Computing applications.
   - Crafting a user-friendly web dashboard for efficient monitoring and control. 
+ <br/>
 
 - **Software Intern**  
   *May 2021 - December 2021*   
   Gigamon Private Limited, India
   - Automated Python scripts to streamline the testing of product features.
   - Performed Manual and Regression Testing of products with automated scripts.
+ <br/>
 
 - **Research Intern**  
   *December 2019 - June 2020*   
@@ -52,6 +54,47 @@ I'm a **Research Associate** at the College of Computing & Data Science at Nanya
   - Devised an Ultra-Wideband based smart lighting system for optimized plug load management.
   - Constructed and implemented a user-friendly web dashboard for monitoring energy usage and scheduling numerous smart plugs 
   - Conducted comprehensive data analysis to scrutinize energy consumption trends and predict future energy requirement
+ <br/>
+
+## Education
+
+- **Master of Science in Computer Control and Automation**  
+  Nanyang Technological University, Singapore  
+  *Completed: March 2024*
+
+- **Bachelor of Technology in Computer Science and Engineering**  
+  Vellore Institute of Technology(VIT), India
+  *Completed: June 2020*
+ <br/>
+
+## Research Experience
+<!-- 
+- **AI Singapore: Automated assessment of trustworthiness for AI Training Programs**  
+  *Dec 2023 - Present*  
+  Introduces a theoretical approach that leverages regret minimization within a teacher-student framework to provide immediate training feedback and fairness comparison. Allowing sample efficiency while preserving optimal solution. 
+
+- **AI Singapore: ML safety navigation algorithm for CPS system**  
+  *Status: Paper Accepted, Oct 2022 - Oct 2024*  
+  We modeled the problem of lane-keeping as a constrained optimization problem and presented a constrained RL based solution to the problem. The weight coefficients are adaptively learned without scenario-specific tuning and grid search. Empirically, we observe that our approach surpasses traditional RL-based approaches.
+
+- **Mechanical Engineering Project: Individual Voting for RL and Search-based Algorithm Combination in Multi-agent Pathfinding**  
+  *Aug 2021~Oct 2022*  
+  Proposed an Individual Voting mechanism to optimize the pathfinding algorithm's performance in dead/livelock situations. A decentralized RL algorithm and a centralized search-based algorithm are learned to combine.  
+
+- **Final Year Project: Reinforcement Learning in Continuous Control Problem**  
+  *Sept 2020 - May 2021*  
+  Implemented a RL-based algorithm for robust manipulator operation using RGB image inputs and Cartesian coordinate outputs. Achieved autonomous grasping for diverse workpiece structures. -->
+
+## Awards & Honors
+- EEE Excellence Award, NTU, Singapore, 2024
+- GD Naidu Young Scientist Award, VIT, India, 2019
+<br/>
+
+## Technical Skills
+I am good at the skills below:
+- **Programming Languages**: Python, Java, C, C++, SQL, HTML, Javascript, MATLAB 
+- **Programming Frameworks**:  Tensorflow, Keras, Pandas, Scikit-learn, Matplotlib, Numpy, Scipy, Bootstrap, Query, Springboot and React
+- **Development Boards**: Rapberry Pi, Nvidia Jetson Nano, Arduino, ESP32 
 
 <!-- 
 A data-driven personal website
