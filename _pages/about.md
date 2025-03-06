@@ -63,7 +63,7 @@ I'm a **Research Associate** at the College of Computing & Data Science at Nanya
   *Completed: March 2024*
 
 - **Bachelor of Technology in Computer Science and Engineering**
-  Vellore Institute of Technology(VIT), India 
+  Vellore Institute of Technology(VIT), India
   *Completed: June 2020*
 
 
